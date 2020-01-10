@@ -8,16 +8,18 @@
     width: 100%
 }
 
-img {
-  width: 200;
-  height: 200;
-  border-radius: 50%;
-}
-
 h1 {
   font-style: italic;
   font-weight: 100;
   font-size: 80px;
+  font-variant-ligatures: normal;
+  letter-spacing: 5px;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: 100;
+  font-size: 40px;
   font-variant-ligatures: normal;
   letter-spacing: 5px;
 }
@@ -29,12 +31,15 @@ h1 {
   padding: 14px 28px;
   font-size: 16px;
   cursor: pointer;
+  box-shadow: darkolivegreen;
 }
 
-img {
+.circle {
   width: 200;
   height: 200;
   border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
 }
 
 .panel-heading {
@@ -63,6 +68,5 @@ h5 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
 
-  .spacing {
-    padding: 25px 50px;
-  }
+
+
