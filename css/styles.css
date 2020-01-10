@@ -1,12 +1,13 @@
 .header {
   left: 0;
-    line-height: 200px;
+    line-height: 100px;
     margin-top: -150px;
     position: absolute;
     text-align: center;
     top: 40%;
     width: 100%
 }
+
 
 h1 {
   font-style: italic;
@@ -27,4 +28,9 @@ h1 {
 
 img {
   border-radius: 50%;
+}
+
+.panel-heading {
+  background-color: plum;
+
 }
