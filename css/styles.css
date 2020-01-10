@@ -24,6 +24,10 @@ h2 {
   letter-spacing: 5px;
 }
 
+.container {
+  center;
+}
+
 .btn {
   border: 2px solid black;
   background-color: white;
@@ -31,7 +35,6 @@ h2 {
   padding: 14px 28px;
   font-size: 16px;
   cursor: pointer;
-  box-shadow: darkolivegreen;
 }
 
 .circle {
@@ -39,7 +42,9 @@ h2 {
   height: 200;
   border-radius: 50%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 .panel-heading {
@@ -50,8 +55,6 @@ h2 {
 .important {
   text-align: left;
 }
-
-
 
 .center {
   display: block;
@@ -67,6 +70,11 @@ h5 {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
+}
+
+.bg1 {
+  color: lightslategray;
+}
 
 
 
