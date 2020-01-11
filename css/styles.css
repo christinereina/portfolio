@@ -8,6 +8,10 @@
     width: 100%
 }
 
+body {
+  background-image: url();
+}
+
 h1 {
   font-style: italic;
   font-weight: 100;
@@ -24,8 +28,11 @@ h2 {
   letter-spacing: 5px;
 }
 
-.container {
-  center;
+h3 {
+  font-style: bold;
+  font-size: 25px;
+  font-variant-ligatures: normal;
+  letter-spacing: 5px;
 }
 
 .btn {
