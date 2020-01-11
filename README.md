@@ -2,11 +2,11 @@
 
 #### Git, HTML and CSS Week One Exercise for Epicodus, 01.10.2020
 
-#### **By Christine Augustine & Rachel Schieferstein**
+#### **By Christine Augustine*
 
 ## Description
 
-This is an HTML Webpage that describes what Christine's cat likes to eat along with 5 facts. It includes 2 pictures of his namesake from Sailor Moon and a giant bowl of tuna salad.
+This is an HTML web page that displays my first week work at Epicodus. This site also contains background information about me. 
 
 ## Setup/Installation Requirements
 
@@ -14,18 +14,23 @@ You can view this HTML page by using Internet Browser.
 
 ## Known Bugs
 
-Currently, the images are broke because we intially only uploaded the HTML files not the image directory.
+None known at this time, as of 01.10.2020 at 5:08 PM. 
 
 ## Support and contact details
 
-Feel free to contact Rachel Schieferstein for any further assistance, questions or inquiries. 
+Feel free to contact Christine Augustine for any further assistance, questions or inquiries. 
+
+Email: blacchoy@gmail.com
+Phone: 818-481-0683
 
 ## Technologies Used
 
 HTMl
+CSS
+Bootstrap
 
 ### License
 
-Copyright (c) 2020 **Christine Augustine, Rachel Schieferstein**
+Copyright (c) 2020 **Christine Augustine**
 
 This HTML web page is licensed under the MIT license
