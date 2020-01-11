@@ -1,8 +1,8 @@
-# Profolio
+# Portfolio
 
 #### Git, HTML and CSS Week One Exercise for Epicodus, 01.10.2020
 
-#### **By Christine Augustine*
+#### **By Christine Augustine**
 
 ## Description
 
