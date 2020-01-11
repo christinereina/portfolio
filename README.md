@@ -21,12 +21,15 @@ None known at this time, as of 01.10.2020 at 5:08 PM.
 Feel free to contact Christine Augustine for any further assistance, questions or inquiries. 
 
 Email: blacchoy@gmail.com
+
 Phone: 818-481-0683
 
 ## Technologies Used
 
-HTMl
+HTML
+
 CSS
+
 Bootstrap
 
 ### License
