@@ -8,9 +8,25 @@
 
 This my porfolio page. It has my recent projects from my first week at Epicodus. This porfolio has background information about me and contact information
 
+## Installation / Setup
+To view my portfolio, follow these steps:
+
+1. Clone my github repository from your computer's Terminal (make sure you are on your Desktop)
+  cd desktop
+  git clone https://github.com/christinereina/portfolio
+
+2. Go to the programming-form folder from your Terminal
+  cd portfolio
+
+3. Type in open index.html from your Terminal 
+  this will open my portfolio in an HTML browser
+
+4. Enjoy!
+
+
 ## Known Bugs
 
-None that I know of 01.10.2020 at 4:54 PM.
+None as of 1/20/2020
 
 ## Support and contact details
 
@@ -21,7 +37,9 @@ blacchoy@gmail.com | 818-481-0683
 ## Technologies Used
 
 HTMl
+
 CSS
+
 Bootstrap
 
 ### License
