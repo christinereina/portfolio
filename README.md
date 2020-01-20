@@ -1,6 +1,5 @@
 # Portfolio
 
-<<<<<<< HEAD
 #### Git, HTML and CSS Week One Exercise for Epicodus, 01.10.2020
 
 #### **By Christine Augustine**
@@ -44,13 +43,11 @@ To view my portfolio, follow these steps:
 ## Known Bugs
 
 None as of 1/20/2020
->>>>>>> gh-pages
 
 ## Support and contact details
 
 Feel free to contact Christine Augustine for any further assistance, questions or inquiries. 
 
-<<<<<<< HEAD
 Email: blacchoy@gmail.com
 
 Phone: 818-481-0683
@@ -64,7 +61,7 @@ blacchoy@gmail.com | 818-481-0683
 ## Technologies Used
 
 HTMl
->>>>>>> gh-pages
+
 
 CSS
 
@@ -74,8 +71,4 @@ Bootstrap
 
 Copyright (c) 2020 **Christine Augustine**
 
-<<<<<<< HEAD
 This HTML web page is licensed under the MIT license
-=======
-This HTML web page is licensed under the MIT license
->>>>>>> gh-pages
